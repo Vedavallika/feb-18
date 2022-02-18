@@ -4,6 +4,6 @@ sum=0
 for i in range(1,n+1):
     fact=fact*i
     sum=sum+fact
-print('Sum of factioal of n: ',sum)
+print('Sum of factioal of n:',sum)
 enter n:100
-sum of factorial of num: 0
+sum of factorial of num: 0 
